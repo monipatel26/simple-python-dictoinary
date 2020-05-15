@@ -1,0 +1,7 @@
+#initial dictionary
+water pani
+food bhojan
+milk doodh
+
+#added dictionary
+computer sangnak
