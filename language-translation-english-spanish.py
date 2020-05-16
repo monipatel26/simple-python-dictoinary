@@ -1,5 +1,5 @@
 '''
-Title: language-translation-revisited-monika-07.py
+Title: language-translation-english-spanish
 Author: Monika Patel
 Purpose: Program to read a word from file and translate word
 01 - read the file
@@ -9,7 +9,6 @@ Purpose: Program to read a word from file and translate word
 05 - defined the functions for adding and saving the word
 06 - loopback to the transaltion
 07 - stripped new lines
-08 - ignored comments in file
 '''
 file = open("translation.txt","a+")
 file.seek(0)
